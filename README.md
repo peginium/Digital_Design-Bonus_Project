@@ -11,7 +11,7 @@ Bu repo, **ESP32** ve **FPGA** üzerinde gerçekleştirilmiş kapsamlı bir **4x
 ## 📂 Klasör Yapısı
 
 ```text
-├── 📁 esp32_firmware/       # ESP32 için C kodları
+├── 📁 keypad_mcu/       # ESP32 için C kodları
 │   ├── keypad.ino
 ├── 📁 keypad_fpga/         # Basys3 için Verilog tasarımı
 │   ├── keypad.v        # Verilog kaynak kodu
