@@ -6,7 +6,7 @@
 ![IDE](https://img.shields.io/badge/IDE-ArduinoIDE%20|%20Vivado%20-blue)
 
 ## 📖 Genel Bakış
-Bu repo, **ESP32** ve **FPGA** üzerinde gerçekleştirilmiş kapsamlı bir **4x4 Matris Keypad** tasarımını ve uygulamasını içerir. Ayrıca **KiCad** ile tasarlanmış özel bir PCB tasarımını da içermektedir.
+Bu repo, **ESP32** ve **FPGA** üzerinde gerçekleştirilmiş bir **4x4 Matris Keypad** tasarımını ve uygulamasını içerir. Ayrıca **KiCad** ile tasarlanmış özel bir PCB tasarımını da içermektedir.
 
 ## 📂 Klasör Yapısı
 
