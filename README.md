@@ -11,11 +11,11 @@ Bu repo, **ESP32** ve **FPGA** üzerinde gerçekleştirilmiş kapsamlı bir **4x
 ## 📂 Klasör Yapısı
 
 ```text
-├── 📁 keypad_mcu/       # ESP32 için C kodları
-│   ├── keypad.ino
 ├── 📁 keypad_fpga/         # Basys3 için Verilog tasarımı
 │   ├── keypad.v        # Verilog kaynak kodu
-│   └── constraints.xdc     # Basys3 için pin planlaması 
+│   └── Basys-3-Master.xdc     # Basys3 için pin planlaması 
+├── 📁 keypad_mcu/       # ESP32 için C kodları
+│   ├── keypad.ino
 ├── 📁 kicad_design/         # PCB tasarım Dosyaları
 │   ├── keypad.kicad_sch  # Şematik Dosyası
 │   └── keypad.kicad_pcb  # PCB layout
